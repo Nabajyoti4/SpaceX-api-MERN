@@ -1,0 +1,2 @@
+(this.webpackJsonpclient=this.webpackJsonpclient||[]).push([[0],{11:function(e,n,t){"use strict";t.r(n);var c=t(1),i=t.n(c),r=t(3),s=t.n(r),o=(t(8),t(9),t(0));var a=function(){return Object(o.jsx)("div",{className:"App",children:Object(o.jsx)("h1",{children:"Space X Api"})})};s.a.render(Object(o.jsx)(i.a.StrictMode,{children:Object(o.jsx)(a,{})}),document.getElementById("root"))},8:function(e,n,t){},9:function(e,n,t){}},[[11,1,2]]]);
+//# sourceMappingURL=main.42e6a6e1.chunk.js.map
